@@ -550,3 +550,5 @@ def inisialisasi_data_contoh():
 inisialisasi_data_contoh()
 tampilkan_frame(frame_awal) 
 app.mainloop()
+
+#test
